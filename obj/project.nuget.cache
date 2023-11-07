@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmPSTOyb/cvqMcu9I/Zz49V/TRCjTesMP9tqC5s8yLTjAoDKC8ZA3utcRDuLy2uftdD3XO1TaLJGEzjzVjYhKQ==",
+  "success": true,
+  "projectFilePath": "C:\\BlazorFinal\\BlazorFinal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devstore.vanderlande.com/artifactory/api/nuget/nuget-public'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
